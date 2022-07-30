@@ -1,0 +1,642 @@
+{
+    "activity.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "activity.tiktok.com",
+            "activity.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "account.tiktok.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.127.230.14"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "analytics.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "analytics.tiktok.com",
+            "analytics.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "api.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "api.tiktok.com",
+            "api.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "affiliate.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "affiliate.tiktok.com",
+            "affiliate.tiktok.com.ttdns1.com",
+            "affiliate.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76",
+            "23.205.118.139"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "ads.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "ads.tiktok.com",
+            "ads.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "business.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "business.tiktok.com",
+            "business.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.25",
+            "23.62.101.50",
+            "23.62.101.26",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.205.118.76",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "autodiscover.tiktok.com": {
+        "domain": "autod.ms-acdc-autod.office.com",
+        "alias": [
+            "autodiscover.tiktok.com",
+            "autodiscover.outlook.com",
+            "autod.ha-autod.office.com"
+        ],
+        "ipaddr": [
+            "40.99.10.72",
+            "52.98.54.136",
+            "52.98.33.168",
+            "40.99.10.120"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cc.tiktok.com": {
+        "domain": "a1948.r.akamai.net",
+        "alias": [
+            "cc.tiktok.com",
+            "cc.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.105",
+            "23.58.120.155"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "careers.tiktok.com": {
+        "domain": "a1881.r.akamai.net",
+        "alias": [
+            "careers.tiktok.com",
+            "careers.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.123",
+            "23.58.120.104"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "dev.tiktok.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.127.230.3"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "developers.tiktok.com": {
+        "domain": "a1851.r.akamai.net",
+        "alias": [
+            "developers.tiktok.com",
+            "developers.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.131",
+            "23.58.120.138"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "developer.tiktok.com": {
+        "domain": "maliva-normal-lb.byteoversea.net",
+        "alias": [
+            "developer.tiktok.com"
+        ],
+        "ipaddr": [
+            "130.44.212.69",
+            "130.44.212.70"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "in.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "in.tiktok.com",
+            "in.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "live-backstage.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "live-backstage.tiktok.com",
+            "live-backstage.tiktok.com.ttdns1.com",
+            "live-backstage.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "media.tiktok.com": {
+        "domain": "alisg-normal-lb.byteoversea.net",
+        "alias": [
+            "media.tiktok.com"
+        ],
+        "ipaddr": [
+            "103.136.220.205",
+            "103.136.220.204"
+        ],
+        "code": 502,
+        "server": "nginx"
+    },
+    "mg.tiktok.com": {
+        "domain": "tiktok-lb-alisg.byteoversea.net",
+        "alias": [
+            "mg.tiktok.com"
+        ],
+        "ipaddr": [
+            "103.136.220.47",
+            "103.136.220.64",
+            "103.136.220.44",
+            "103.136.220.46"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "meteor.tiktok.com": {
+        "domain": "a1988.r.akamai.net",
+        "alias": [
+            "meteor.tiktok.com",
+            "meteor.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.89",
+            "23.58.120.91"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "music.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "music.tiktok.com",
+            "music.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8"
+        ],
+        "code": 403,
+        "server": "nginx"
+    },
+    "login.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "login.tiktok.com",
+            "login.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "newsroom.tiktok.com": {
+        "domain": "a1991.r.akamai.net",
+        "alias": [
+            "newsroom.tiktok.com",
+            "newsroom.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.146",
+            "23.58.120.123"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "open.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "open.tiktok.com",
+            "open.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "m.tiktok.com": {
+        "domain": "a2047.r.akamai.net",
+        "alias": [
+            "m.tiktok.com",
+            "m.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.107",
+            "23.58.120.105",
+            "23.58.120.114",
+            "23.58.120.115",
+            "23.58.120.113",
+            "23.58.120.99",
+            "23.58.120.104",
+            "23.58.120.106",
+            "23.58.120.112"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "push.tiktok.com": {
+        "domain": "e35058.api3.akamaiedge.net",
+        "alias": [
+            "push.tiktok.com",
+            "push.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.213.1.107",
+            "23.213.1.104"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "service.tiktok.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.127.230.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "seller.tiktok.com": {
+        "domain": "e35058.api5.akamaiedge.net",
+        "alias": [
+            "seller.tiktok.com",
+            "seller.tiktok.com.ttdns1.com",
+            "seller.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.213.1.104",
+            "23.213.1.107"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "shop.tiktok.com": {
+        "domain": "e35058.api1.akamaiedge.net",
+        "alias": [
+            "shop.tiktok.com",
+            "shop.tiktok.com.ttdns1.com",
+            "shop.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.213.1.104",
+            "23.213.1.107"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "survey.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "survey.tiktok.com",
+            "survey.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "support.tiktok.com": {
+        "domain": "a1933.r.akamai.net",
+        "alias": [
+            "support.tiktok.com",
+            "support.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.104",
+            "23.58.120.107"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "test.tiktok.com": {
+        "domain": "a74.r.akamai.net",
+        "alias": [
+            "test.tiktok.com",
+            "test.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.137",
+            "23.58.120.113"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "tv.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "tv.tiktok.com",
+            "tv.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.11",
+            "23.62.101.50",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "trends.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "trends.tiktok.com",
+            "trends.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84",
+            "23.62.101.8",
+            "23.62.101.11",
+            "23.62.101.50",
+            "23.62.101.24",
+            "23.62.101.18",
+            "23.205.118.216",
+            "23.205.118.139"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "us.tiktok.com": {
+        "domain": "e35058.a.akamaiedge.net",
+        "alias": [
+            "us.tiktok.com",
+            "us.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.62.101.8",
+            "23.62.101.11",
+            "23.62.101.50",
+            "23.205.118.216",
+            "23.205.118.139",
+            "23.62.101.33",
+            "23.205.118.39",
+            "23.205.118.211",
+            "23.205.118.84"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "webform.tiktok.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.127.230.1"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webcast.tiktok.com": {
+        "domain": "e35058.api2.akamaiedge.net",
+        "alias": [
+            "webcast.tiktok.com",
+            "webcast.tiktok.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.213.1.107",
+            "23.213.1.104"
+        ],
+        "code": 404,
+        "server": "nginx"
+    },
+    "t.tiktok.com": {
+        "domain": "a1836.r.akamai.net",
+        "alias": [
+            "t.tiktok.com",
+            "t.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.99",
+            "23.58.120.97"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vt.tiktok.com": {
+        "domain": "a1801.r.akamai.net",
+        "alias": [
+            "vt.tiktok.com",
+            "vt.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.160",
+            "23.58.120.161"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.tiktok.com": {
+        "domain": "a2047.r.akamai.net",
+        "alias": [
+            "www.tiktok.com",
+            "www.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.89",
+            "23.58.120.98",
+            "23.58.120.104",
+            "23.58.120.105",
+            "23.58.120.96",
+            "23.58.120.91",
+            "23.58.120.90",
+            "23.58.120.97",
+            "23.58.120.88"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vm.tiktok.com": {
+        "domain": "a2047.r.akamai.net",
+        "alias": [
+            "vm.tiktok.com",
+            "vm.tiktok.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "23.58.120.105",
+            "23.58.120.114",
+            "23.58.120.115",
+            "23.58.120.113",
+            "23.58.120.99",
+            "23.58.120.96",
+            "23.58.120.91",
+            "23.58.120.90",
+            "23.58.120.97",
+            "23.58.120.88",
+            "23.58.120.89",
+            "23.58.120.98",
+            "23.58.120.104",
+            "23.58.120.106",
+            "23.58.120.112",
+            "23.58.120.107"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651735162.493467,
+        "time_end": 1651735205.2174635,
+        "domain": "tiktok.com",
+        "wordlist": 10757
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "autoconfig.spinthehack.in": {
+        "domain": "autoconfig.mail.hostinger.com",
+        "alias": [
+            "autoconfig.spinthehack.in"
+        ],
+        "ipaddr": [
+            "153.92.2.19"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "autodiscover.spinthehack.in": {
+        "domain": "autodiscover.mail.hostinger.com",
+        "alias": [
+            "autodiscover.spinthehack.in"
+        ],
+        "ipaddr": [
+            "153.92.2.19"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "backup.spinthehack.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "217.21.81.228"
+        ],
+        "code": 200,
+        "server": "LiteSpeed"
+    },
+    "cpanel.spinthehack.in": {
+        "domain": "clcp.hostinger.com",
+        "alias": [
+            "cpanel.spinthehack.in"
+        ],
+        "ipaddr": [
+            "2.57.90.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ftp.spinthehack.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "217.21.81.228"
+        ],
+        "code": 403,
+        "server": "LiteSpeed"
+    },
+    "phpmyadmin.spinthehack.in": {
+        "domain": "clcp.hostinger.com",
+        "alias": [
+            "phpmyadmin.spinthehack.in"
+        ],
+        "ipaddr": [
+            "2.57.90.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "pathshala.spinthehack.in": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.67.144.223",
+            "104.21.39.113"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webmail.spinthehack.in": {
+        "domain": "clcp.hostinger.com",
+        "alias": [
+            "webmail.spinthehack.in"
+        ],
+        "ipaddr": [
+            "2.57.90.58"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.spinthehack.in": {
+        "domain": "www.spinthehack.in.cdn.cloudflare.net",
+        "alias": [
+            "www.spinthehack.in"
+        ],
+        "ipaddr": [
+            "104.21.39.113",
+            "172.67.144.223"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651765519.235783,
+        "time_end": 1651765567.1450431,
+        "domain": "spinthehack.in",
+        "wordlist": 10757
+    }
+}

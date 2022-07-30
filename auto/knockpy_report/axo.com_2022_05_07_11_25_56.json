@@ -1,0 +1,39 @@
+{
+    "dev.axo.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "78.46.94.76"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "webmail.axo.com": {
+        "domain": "webmail.gandi.net",
+        "alias": [
+            "webmail.axo.com"
+        ],
+        "ipaddr": [
+            "217.70.178.6"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "www.axo.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "178.63.75.19"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651922703.540114,
+        "time_end": 1651922756.4069624,
+        "domain": "axo.com",
+        "wordlist": 10756
+    }
+}

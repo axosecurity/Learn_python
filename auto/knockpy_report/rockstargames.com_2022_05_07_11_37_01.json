@@ -1,0 +1,553 @@
+{
+    "activate.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "autodiscover.rockstargames.com": {
+        "domain": "autod.ms-acdc-autod.office.com",
+        "alias": [
+            "autodiscover.rockstargames.com",
+            "autodiscover.outlook.com",
+            "autod.ha-autod.office.com"
+        ],
+        "ipaddr": [
+            "52.98.123.248",
+            "52.98.57.136",
+            "52.98.123.200",
+            "52.98.58.40"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "downloads.rockstargames.com": {
+        "domain": "rsgames.vo.llnwd.net",
+        "alias": [
+            "downloads.rockstargames.com"
+        ],
+        "ipaddr": [
+            "111.119.15.0"
+        ],
+        "code": 400,
+        "server": "EdgePrism/4.9.9.0"
+    },
+    "cert.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.81.241.28"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "connect.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "208.47.212.22"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "dash.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.81.241.155"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "facebook.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dev.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "199.168.61.41"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "graph.rockstargames.com": {
+        "domain": "e8290.i.akamaiedge.net",
+        "alias": [
+            "graph.rockstargames.com",
+            "graph.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.207.134.243"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "german.rockstargames.com": {
+        "domain": "houser.rockstargames.com",
+        "alias": [
+            "german.rockstargames.com"
+        ],
+        "ipaddr": [
+            "63.236.94.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "gsa.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "80.64.128.225"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "hub.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.204.241.11"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "jobs.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "inventory.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "64.140.253.165"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "m.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "italian.rockstargames.com": {
+        "domain": "houser.rockstargames.com",
+        "alias": [
+            "italian.rockstargames.com"
+        ],
+        "ipaddr": [
+            "63.236.94.178"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "keys.rockstargames.com": {
+        "domain": "keys.rockstargames.com.cdn.cloudflare.net",
+        "alias": [
+            "keys.rockstargames.com"
+        ],
+        "ipaddr": [
+            "104.18.32.42",
+            "172.64.155.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "lists.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.116.237.28"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "listserv.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.160"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mail.rockstargames.com": {
+        "domain": "mail.gtm.take2games.com",
+        "alias": [
+            "mail.rockstargames.com"
+        ],
+        "ipaddr": [
+            "209.204.241.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "media.rockstargames.com": {
+        "domain": "e8290.d.akamaiedge.net",
+        "alias": [
+            "media.rockstargames.com",
+            "media.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.77.9.168"
+        ],
+        "code": 404,
+        "server": "AkamaiNetStorage"
+    },
+    "moon.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.188"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mx1.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "8.29.1.42"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "mx2.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "199.168.61.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "patches.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "162.254.198.254"
+        ],
+        "code": 404,
+        "server": "AkamaiNetStorage"
+    },
+    "online.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "prod1.rockstargames.com": {
+        "domain": "rsgames.vo.llnwd.net",
+        "alias": [
+            "prod1.rockstargames.com"
+        ],
+        "ipaddr": [
+            "111.119.15.0"
+        ],
+        "code": 400,
+        "server": "EdgePrism/4.9.9.0"
+    },
+    "newsletter.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "198.245.82.46"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "redesign.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.188"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "relay2.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "66.117.209.32"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "support.rockstargames.com": {
+        "domain": "e8290.i.akamaiedge.net",
+        "alias": [
+            "support.rockstargames.com",
+            "support.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.207.134.243"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "signin.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.79"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "socialclub.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.71"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "smtp.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "199.168.61.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "techsupport.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "stage.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.81.240.192"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "staging.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.131"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "store.rockstargames.com": {
+        "domain": "store.rockstargames.com.cdn.cloudflare.net",
+        "alias": [
+            "store.rockstargames.com"
+        ],
+        "ipaddr": [
+            "104.18.32.42",
+            "172.64.155.214"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "stream.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "199.168.61.45"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "utils.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.96"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "updates.rockstargames.com": {
+        "domain": "e8290.dscd.akamaiedge.net",
+        "alias": [
+            "updates.rockstargames.com",
+            "updates.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.77.9.168"
+        ],
+        "code": 404,
+        "server": "AkamaiNetStorage"
+    },
+    "view.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "139.138.224.8"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vpn.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "209.204.240.122"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "videos2.rockstargames.com": {
+        "domain": "a1694.g.akamai.net",
+        "alias": [
+            "videos2.rockstargames.com",
+            "balance.rsgames.cust.lldns.net",
+            "videos.rockstargames.com.edgesuite.net"
+        ],
+        "ipaddr": [
+            "42.99.128.155",
+            "42.99.128.176"
+        ],
+        "code": 404,
+        "server": "AkamaiNetStorage"
+    },
+    "testing.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.158"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www.rockstargames.com": {
+        "domain": "e8290.e2.akamaiedge.net",
+        "alias": [
+            "www.rockstargames.com",
+            "www.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.58.22.135"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "trac.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "199.168.61.89"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ts.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.232.230.111"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "videos.rockstargames.com": {
+        "domain": "e8290.d.akamaiedge.net",
+        "alias": [
+            "videos.rockstargames.com",
+            "videos.rockstargames.com.edgekey.net"
+        ],
+        "ipaddr": [
+            "23.77.9.168"
+        ],
+        "code": 404,
+        "server": "AkamaiNetStorage"
+    },
+    "wt.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.166"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www1.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.154"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www2.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.167"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "www3.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "63.236.94.154"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "warehouse.rockstargames.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "104.255.105.98"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "webmail.rockstargames.com": {
+        "domain": "mail.gtm.take2games.com",
+        "alias": [
+            "webmail.rockstargames.com"
+        ],
+        "ipaddr": [
+            "209.204.241.26"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651923357.7478342,
+        "time_end": 1651923421.36428,
+        "domain": "rockstargames.com",
+        "wordlist": 10757
+    }
+}

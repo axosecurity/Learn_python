@@ -1,0 +1,6344 @@
+{
+    "163.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "163.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "0.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "0.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aa.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "aa.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aap.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "aap.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "add.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "add.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "admintest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "admintest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "adobe.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "adobe.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "adp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "adp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "abacus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "abacus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "about.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "about.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "an.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "an.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "agencia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "agencia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aim.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "aim.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ai.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ai.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "adtest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "adtest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "agora.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "agora.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ama.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ama.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "amd.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "amd.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "amigo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "amigo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "amway.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "amway.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ais.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ais.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "allegro.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "allegro.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "amadeus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "amadeus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "amazon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "amazon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apd.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apd.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "analytics.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "analytics.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "alpha.facebook.com": {
+        "domain": "latest.c10r.facebook.com",
+        "alias": [
+            "alpha.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.11"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ads.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "ads.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "april.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "april.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apollo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apollo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apitest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apitest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apex.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apex.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "apple.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "apple.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "aps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "aps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "arnold.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "arnold.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "arctic.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "arctic.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "arena.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "arena.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "asia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "asia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "asr.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "asr.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ark.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ark.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "association.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "association.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "arsenal.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "arsenal.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "atelier.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "atelier.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "asi.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "asi.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "asus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "asus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "astra.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "astra.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "asu.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "asu.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "axa.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "axa.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "avaya.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "avaya.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "api.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "api.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "az.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "az.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "api2.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "api2.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "balance.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "balance.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bandwidth.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bandwidth.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "b2btest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "b2btest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bbc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bbc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bd.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bd.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bem.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bem.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "big.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "big.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bird.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bird.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "beta.facebook.com": {
+        "domain": "latest.c10r.facebook.com",
+        "alias": [
+            "beta.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.11"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "betty.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "betty.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bof.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bof.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "blink.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "blink.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "breeze.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "breeze.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "brest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "brest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bobcat.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bobcat.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bridge.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bridge.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "box.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "box.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "alf.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "192.168.16.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "blackbox.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "blackbox.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "business.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "business.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "butterfly.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "butterfly.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "blackbird.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "blackbird.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "c.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "c.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ca.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ca.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cag.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cag.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cai.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cai.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "bm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "bm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "blog.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "blog.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "car.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "car.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cae.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cae.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "casper.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "casper.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "booking.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "booking.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "carrefour.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "carrefour.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "carnival.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "carnival.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "catalyst.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "catalyst.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "care.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "care.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cg.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cg.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cct.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cct.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "checkpoint.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "checkpoint.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "canvas.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "canvas.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cea.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cea.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cib.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cib.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ci.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ci.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cgi.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cgi.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "citrix.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "citrix.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "citroen.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "citroen.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cisco.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cisco.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cmp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cmp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cj.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cj.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cobalt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cobalt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "chris.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "chris.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "col.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "col.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "comet.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "comet.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "community.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "community.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "concorde.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "concorde.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "comcast.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "comcast.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "code.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "code.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": "nginx"
+    },
+    "compass.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "compass.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "connect.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "connect.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35",
+            "157.240.235.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "crea.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "crea.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cosmos.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cosmos.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "crs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "crs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ctd.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ctd.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cruise.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cruise.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "d.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "d.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cultura.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cultura.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cumulus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cumulus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cyber.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cyber.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "cybozu.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "cybozu.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "da.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "da.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "darwin.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "darwin.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "de.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "de.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "demo8.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "demo8.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "design.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "design.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dept.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "dept.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "development.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "development.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "develop.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "develop.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "demo7.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "demo7.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dfs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "dfs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dns.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "dns.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "discovery.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "discovery.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "do.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "do.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "dps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "driver.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "driver.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ecampus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ecampus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dropbox.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "dropbox.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "developers.facebook.com": {
+        "domain": "developers.c10r.facebook.com",
+        "alias": [
+            "developers.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "clk.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "69.63.180.41"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "education.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "education.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "east.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "east.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "developer.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "developer.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ef.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ef.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "echo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "echo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "eclass.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "eclass.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "error.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "error.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "elektra.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "elektra.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "elektro.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "elektro.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "engineer.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "engineer.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "elena.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "elena.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "economy.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "economy.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 401,
+        "server": "ramlet"
+    },
+    "epsilon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "epsilon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "es.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "es.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "eu.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "eu.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "europe.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "europe.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "express.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "express.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "feedback.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "feedback.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.35",
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "extreme.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "extreme.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "extern.facebook.com": {
+        "domain": "extern.c10r.facebook.com",
+        "alias": [
+            "extern.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.20"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "facebook.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "facebook.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "careers.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fi.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fi.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "falcon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "falcon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "facile.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "facile.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fb.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fb.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fire.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fire.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fitness.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fitness.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ford.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ford.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "forge.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "forge.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "gateway.facebook.com": {
+        "domain": "msgr-latest.c10r.facebook.com",
+        "alias": [
+            "gateway.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.16"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "fr.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fr.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "free.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "free.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.36",
+            "157.240.235.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "focus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "focus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "fusion.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fusion.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "dev.facebook.com": {
+        "domain": "intern-regional.vvv.facebook.com",
+        "alias": [
+            "dev.facebook.com"
+        ],
+        "ipaddr": [
+            "10.110.135.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "fundacion.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "fundacion.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "freedom.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "freedom.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "graph.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "graph.facebook.com",
+            "api.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 400,
+        "server": ""
+    },
+    "gl.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "gl.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "gaming.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "gaming.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "gene.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "gene.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "groupon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "groupon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "globe.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "globe.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "google.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "google.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "gps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "gps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hao.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hao.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "heron.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "heron.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hertz.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hertz.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "helios.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "helios.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "helen.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "helen.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "h.facebook.com": {
+        "domain": "headers-regional.vvv.facebook.com",
+        "alias": [
+            "h.facebook.com"
+        ],
+        "ipaddr": [
+            "173.252.127.252"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hello.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hello.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "housing.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "housing.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hs.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "hs.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35",
+            "157.240.235.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hu.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hu.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ica.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ica.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "icare.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "icare.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hydro.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hydro.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hudson.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hudson.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ibc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ibc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ibm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ibm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hybrid.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "hybrid.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "imagine.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "imagine.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ie.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ie.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "imc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "imc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ig.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ig.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "industry.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "industry.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "indigo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "indigo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "impact.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "impact.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "iphone.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "iphone.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "informatica.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "informatica.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "inet.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "inet.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "intern.facebook.com": {
+        "domain": "extern.c10r.facebook.com",
+        "alias": [
+            "intern.facebook.com",
+            "internextern.vvv.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.20"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "infosys.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "infosys.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "india.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "india.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "inside.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "inside.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "interface.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "interface.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "inspire.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "inspire.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ipc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ipc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "iss.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "iss.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "it.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "it.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ja.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ja.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "iso.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "iso.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "jazz.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "jazz.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "just.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "just.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "kaltura.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "kaltura.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "knowledge.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "knowledge.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "kj.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "kj.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "job.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "job.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ko.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ko.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "kobe.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "kobe.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "kw.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "kw.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "l.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "l.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.36",
+            "157.240.235.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ky.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ky.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "king.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "king.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "klm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "klm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lancaster.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lancaster.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "laposte.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "laposte.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lasvegas.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lasvegas.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lb.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lb.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "learning.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "learning.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "leeds.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "leeds.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "kr.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "kr.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lastminute.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lastminute.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lds.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lds.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lea.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lea.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lithium.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lithium.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 400,
+        "server": ""
+    },
+    "light.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "light.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35",
+            "157.240.235.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "link.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "link.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lite.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "lite.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "lm.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "lm.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "m.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35",
+            "157.240.235.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "login.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "login.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "hr.facebook.com": {
+        "domain": "intern-regional.vvv.facebook.com",
+        "alias": [
+            "hr.facebook.com"
+        ],
+        "ipaddr": [
+            "10.110.135.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "liverpool.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "liverpool.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "m2.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "m2.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "madrid.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "madrid.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "maxim.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "maxim.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mbm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mbm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mec.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mec.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mega.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mega.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "meridian.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "meridian.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mobile.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mobile.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mgs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mgs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "michigan.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "michigan.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mis.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mis.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "metis.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "metis.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "microsoft.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "microsoft.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "michael.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "michael.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "misc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "misc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "msg.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "msg.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "momo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "momo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "monster.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "monster.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "move.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "move.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "msc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "msc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "my.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "my.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "myapps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "myapps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "n.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "n.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nb.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nb.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "mysql.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "mysql.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ncs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ncs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "neo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "neo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "new.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "new.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "newjersey.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "newjersey.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nestle.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nestle.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "netapp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "netapp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "newmedia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "newmedia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nimbus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nimbus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nike.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nike.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "no.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "no.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nn.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nn.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nobel.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nobel.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "news.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "news.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nokia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nokia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "norma.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "norma.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nikita.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nikita.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ns.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ns.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nsw.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "nsw.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "oas.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "oas.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "od.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "od.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ods.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ods.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ntt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ntt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "old.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "old.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ondemand.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ondemand.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "oliver.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "oliver.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "o.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "o.facebook.com",
+            "0.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "orca.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "orca.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "orient.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "orient.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "p.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "p.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "osiris.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "osiris.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pages.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pages.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "openid.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "openid.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "orange.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "orange.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "opensource.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": "Netlify"
+    },
+    "pan.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pan.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "oslo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "oslo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pay.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "pay.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.35",
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "partners.facebook.com": {
+        "domain": "partners.c10r.facebook.com",
+        "alias": [
+            "partners.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "path.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "path.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "perseus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "perseus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "peace.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "peace.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pg.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pg.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pixel.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "pixel.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pharos.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pharos.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pearl.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pearl.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "platform.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "platform.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pegasus.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pegasus.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "phi.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "phi.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pioneer.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pioneer.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pl.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pl.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "philips.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "philips.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "photon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "photon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "planning.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "planning.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "polar.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "polar.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pls.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pls.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "people.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "people.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.35",
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "polaris.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "polaris.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "nexus.facebook.com": {
+        "domain": "nexus.thefacebook.com",
+        "alias": [
+            "nexus.facebook.com"
+        ],
+        "ipaddr": [
+            "192.168.62.201"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "postmaster.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "postmaster.facebook.com",
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.35",
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pps.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pps.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "primo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "primo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "prod.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "prod.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "privacy.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "privacy.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "portal.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "portal.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "premier.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "premier.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "promo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "promo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "prisma.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "prisma.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "psi.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "psi.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "publinet.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "publinet.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "qs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "qs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "quantum.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "quantum.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "rad.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "rad.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "pwc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "pwc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "rcs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "rcs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "redhat.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "redhat.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "rakuten.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "rakuten.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "redbull.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "redbull.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "rbs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "rbs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "regis.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "regis.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "register.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "register.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "realtor.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "realtor.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "realtime.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "realtime.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "remax.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "remax.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "renault.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "renault.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "res.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "res.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ro.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ro.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "research.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "research.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "s11.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "s11.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sd.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "sd.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.36",
+            "157.240.15.36"
+        ],
+        "code": 400,
+        "server": ""
+    },
+    "san.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "san.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "secure.facebook.com": {
+        "domain": "secure.c10r.facebook.com",
+        "alias": [
+            "secure.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.13",
+            "157.240.15.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sas.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sas.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "saga.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "saga.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "samsung.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "samsung.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "scarlet.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "scarlet.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sanantonio.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sanantonio.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sap.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sap.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sandbox.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sandbox.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "seer.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "seer.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "seat.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "seat.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "senior.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "senior.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sendgrid.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sendgrid.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "prof.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "10.18.4.109"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sgs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sgs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "share.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "share.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "shop.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "shop.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sim.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sim.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "siemens.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "siemens.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "push.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "69.171.240.15"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "simon.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "simon.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "social.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "social.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sophos.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sophos.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "spaces.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "spaces.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sos.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sos.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "space.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "space.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sok.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sok.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "solutions.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "solutions.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "srt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "srt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sophia.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sophia.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "splunk.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "splunk.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "spt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "spt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sprint.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sprint.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "speedy.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "speedy.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ssl.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ssl.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "st.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "st.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "stash.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "stash.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "static.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "static.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "star.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ssotest.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ssotest.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "stockholm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "stockholm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "rtmp.facebook.com": {
+        "domain": "edgetee-upload.xx.fbcdn.net",
+        "alias": [
+            "rtmp.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.7"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "stories.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "stories.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "studio.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "studio.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "student.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "student.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sv.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sv.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "t.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "t.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tablet.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tablet.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "stripe.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "stripe.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "svt.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "svt.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "sword.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "sword.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "symantec.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "symantec.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "store.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "store.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tableau.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tableau.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "switch.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "switch.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "symphony.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "symphony.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "td.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "td.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "teach.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "teach.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tcs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tcs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tele2.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tele2.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tf1.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tf1.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "th.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "th.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tempo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tempo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "touch.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "touch.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tip.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tip.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tmg.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tmg.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tr.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tr.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "trac.facebook.com": {
+        "domain": "extern.c10r.facebook.com",
+        "alias": [
+            "trac.facebook.com",
+            "intern.facebook.com",
+            "internextern.vvv.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.20",
+            "157.240.15.22"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tm.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tm.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tmp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tmp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tools.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tools.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tsa.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "tsa.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "trans.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "trans.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "upload.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "upload.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "uf.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "uf.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ui.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ui.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "uma.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "uma.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "upc.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "upc.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "turtle.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "turtle.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "twitter.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "twitter.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ur.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ur.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "va.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "va.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "urban.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "urban.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vega.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vega.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vector.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vector.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vds.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vds.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vip.facebook.com": {
+        "domain": "facebook.com",
+        "alias": [
+            "vip.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vesti.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vesti.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vince.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vince.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "voodoo.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "voodoo.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "voyager.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "voyager.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vodafone.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vodafone.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "webdav.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "webdav.facebook.com",
+            "api.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 400,
+        "server": ""
+    },
+    "w.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "w.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "watch.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "watch.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "wave.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wave.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "vs.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "vs.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "web.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "web.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "walmart.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "walmart.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "weber.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "weber.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "webhelp.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "webhelp.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "webmail.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "webmail.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "www.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "www.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "wish.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wish.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "work.facebook.com": {
+        "domain": "secure.c10r.facebook.com",
+        "alias": [
+            "work.facebook.com",
+            "star.secure.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.13",
+            "157.240.15.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "widgets.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "widgets.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "time.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "129.134.26.123"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "time2.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "129.134.29.123"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "time1.facebook.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "129.134.28.123"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wow.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wow.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "wild.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wild.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "ww.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "ww.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "x.facebook.com": {
+        "domain": "star-mini.c10r.facebook.com",
+        "alias": [
+            "x.facebook.com",
+            "m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.35",
+            "157.240.15.35"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "www2.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "www2.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "wts.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wts.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "tps.facebook.com": {
+        "domain": "mx.vvv.facebook.com",
+        "alias": [
+            "tps.facebook.com"
+        ],
+        "ipaddr": [
+            "10.110.143.16"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wwww.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "wwww.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "workplace.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "workplace.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "xerox.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "xerox.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "xchange.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "xchange.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "zh-cn.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "zh-cn.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "yandex.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "yandex.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "z.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "z.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.36",
+            "157.240.235.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "zebra.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "zebra.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "yellow.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "yellow.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "yx.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "yx.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "zurich.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "zurich.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.1",
+            "157.240.235.15"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "zoom.facebook.com": {
+        "domain": "star.c10r.facebook.com",
+        "alias": [
+            "zoom.facebook.com",
+            "star.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.235.15",
+            "157.240.15.1"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "zero.facebook.com": {
+        "domain": "z-m.c10r.facebook.com",
+        "alias": [
+            "zero.facebook.com",
+            "0.facebook.com",
+            "z-m.facebook.com"
+        ],
+        "ipaddr": [
+            "157.240.15.36",
+            "157.240.235.36"
+        ],
+        "code": 200,
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651734985.664513,
+        "time_end": 1651735039.6839492,
+        "domain": "facebook.com",
+        "wordlist": 10756
+    }
+}

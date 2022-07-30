@@ -1,0 +1,2975 @@
+{
+    "accelerator.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "academico.google.com": {
+        "domain": "scholar.l.google.com",
+        "alias": [
+            "academico.google.com",
+            "scholar.google.com"
+        ],
+        "ipaddr": [
+            "172.217.163.164"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "ads1.google.com": {
+        "domain": "ads.google.com",
+        "alias": [
+            "ads1.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "afp.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "afp.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "aa.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "aa.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "ESF"
+    },
+    "ads.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "admanager.google.com": {
+        "domain": "admanager.l.google.com",
+        "alias": [
+            "admanager.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "advisor.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "advisor.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "adsense.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "adsense.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "about.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "about.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "america.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "america.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "adx.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "adx.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "activity.google.com": {
+        "domain": "history.l.google.com",
+        "alias": [
+            "activity.google.com"
+        ],
+        "ipaddr": [
+            "74.125.24.139",
+            "74.125.24.100",
+            "74.125.24.113",
+            "74.125.24.102",
+            "74.125.24.101",
+            "74.125.24.138"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "accounts.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.200.141"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "adwords.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.251.10.102",
+            "142.251.10.113",
+            "142.251.10.100",
+            "142.251.10.138",
+            "142.251.10.139",
+            "142.251.10.101"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "ap.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "ap.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "amp.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "amp.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "api.google.com": {
+        "domain": "api.l.google.com",
+        "alias": [
+            "api.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "archive.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.71.14"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "account.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "account.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "ai.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.46"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "answers.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "answers.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "alerts.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "alerts.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "google_alerts"
+    },
+    "asia.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.196.164"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "apps.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "apps.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "base.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "billing.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "bmt.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "bmt.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "analytics.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "analytics.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "bulletin.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "bulletin.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "apis.google.com": {
+        "domain": "plus.l.google.com",
+        "alias": [
+            "apis.google.com"
+        ],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "1.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "1.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "campaigns.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "buzz.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "buzz.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "ESF"
+    },
+    "admin.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "artsandculture.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.205.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "catalogue.google.com": {
+        "domain": "books.google.com",
+        "alias": [
+            "catalogue.google.com"
+        ],
+        "ipaddr": [
+            "142.250.205.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "catalog.google.com": {
+        "domain": "books.google.com",
+        "alias": [
+            "catalog.google.com"
+        ],
+        "ipaddr": [
+            "142.250.205.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "books.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.205.238"
+        ],
+        "code": 200,
+        "server": "OFE/0.1"
+    },
+    "bookmarks.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "bookmarks.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "zfe"
+    },
+    "adsdatahub.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.77.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "blog.google.com": {
+        "domain": "blogger.l.google.com",
+        "alias": [
+            "blog.google.com",
+            "www.blogger.com"
+        ],
+        "ipaddr": [
+            "172.217.163.201"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "business.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.14"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "channel.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.78"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "careers.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.76.46"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "client1.google.com": {
+        "domain": "clients.l.google.com",
+        "alias": [
+            "client1.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "client2.google.com": {
+        "domain": "clients.l.google.com",
+        "alias": [
+            "client2.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "cast.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "cast.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "code.google.com": {
+        "domain": "code.l.google.com",
+        "alias": [
+            "code.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.14"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "chrome.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "chrome.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "chat.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "blogger.google.com": {
+        "domain": "blogger.l.google.com",
+        "alias": [
+            "blogger.google.com",
+            "www.blogger.com"
+        ],
+        "ipaddr": [
+            "172.217.163.201"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "d.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "d.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "corp.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.251.12.129"
+        ],
+        "code": 400,
+        "server": ""
+    },
+    "contacts.google.com": {
+        "domain": "plus.l.google.com",
+        "alias": [
+            "contacts.google.com"
+        ],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "calendar.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.78"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "desktop.google.com": {
+        "domain": "desktop.l.google.com",
+        "alias": [
+            "desktop.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.132"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "cse.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "dir.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "dir.google.com",
+            "directory.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "classroom.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "dl.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "developers.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "dns.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "8.8.4.4",
+            "8.8.8.8"
+        ],
+        "code": 200,
+        "server": "scaffolding on HTTPServer2"
+    },
+    "downloads.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "downloads.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "download.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "download.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "design.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.110"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "diversity.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "docs.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "developer.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.46"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "domains.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.206"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "doc.google.com": {
+        "domain": "writely.l.google.com",
+        "alias": [
+            "doc.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.46"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "earth.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "earth.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "ddm.google.com": {
+        "domain": "ddm.l.google.com",
+        "alias": [
+            "ddm.google.com"
+        ],
+        "ipaddr": [
+            "142.250.196.174"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "drive.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "documents.google.com": {
+        "domain": "writely.l.google.com",
+        "alias": [
+            "documents.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.46"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "edu.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.67.46"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "donate.google.com": {
+        "domain": "appspot.l.google.com",
+        "alias": [
+            "donate.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.113"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "ebooks.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "ebooks.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 403,
+        "server": "ESF"
+    },
+    "education.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "email.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "email.google.com",
+            "gmail.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "environment.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.166.110"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "elections.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "events.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "europe.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.100"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "familylink.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.76.46"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "files.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "files.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "fi.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "fi.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "cloud.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.174"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "fit.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "fiber.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "fiber.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "food.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 404,
+        "server": "ESF"
+    },
+    "flights.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "flights.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "fonts.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "enterprise.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "enterprise.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "flight.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "flight.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "directory.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "directory.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "express.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.77.174"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "finance.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "finance.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "fotos.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.46"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "forms.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "forms.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "fusion.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "fusion.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "gds.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.31.206"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "foto.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.77.110"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "gg.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "ghs.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.71.19"
+        ],
+        "code": 404,
+        "server": "ghs"
+    },
+    "glass.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "glass.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "gd.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "gd.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36",
+            "142.250.76.68"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "get.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "group.google.com": {
+        "domain": "groups.l.google.com",
+        "alias": [
+            "group.google.com"
+        ],
+        "ipaddr": [
+            "74.125.24.139",
+            "74.125.24.138",
+            "74.125.24.101",
+            "74.125.24.113",
+            "74.125.24.100",
+            "74.125.24.102"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "games.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "games.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "gw3.google.com": {
+        "domain": "gw.l.google.com",
+        "alias": [
+            "gw3.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.100"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "gw1.google.com": {
+        "domain": "gw.l.google.com",
+        "alias": [
+            "gw1.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.100"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "gw2.google.com": {
+        "domain": "gw.l.google.com",
+        "alias": [
+            "gw2.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.100"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "home.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "help.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "help.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "support-content-ui"
+    },
+    "history.google.com": {
+        "domain": "history.l.google.com",
+        "alias": [
+            "history.google.com"
+        ],
+        "ipaddr": [
+            "74.125.24.101",
+            "74.125.24.138",
+            "74.125.24.139",
+            "74.125.24.100",
+            "142.251.12.139",
+            "142.251.12.100",
+            "142.251.12.102",
+            "142.251.12.101",
+            "142.251.12.113",
+            "142.251.12.138",
+            "74.125.24.113",
+            "74.125.24.102"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "health.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.78"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "id.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.163"
+        ],
+        "code": 404,
+        "server": "scaffolding on HTTPServer2"
+    },
+    "goto.google.com": {
+        "domain": "uberproxy.l.google.com",
+        "alias": [
+            "goto.google.com"
+        ],
+        "ipaddr": [
+            "74.125.200.129"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "gmail.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "gmail.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "images.google.com": {
+        "domain": "images.l.google.com",
+        "alias": [
+            "images.google.com"
+        ],
+        "ipaddr": [
+            "142.250.77.142"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "image.google.com": {
+        "domain": "images.l.google.com",
+        "alias": [
+            "image.google.com",
+            "images.google.com"
+        ],
+        "ipaddr": [
+            "142.250.77.142"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "hotels.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "hotels.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "investors.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "investors.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "interview.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.110"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "feeds.google.com": {
+        "domain": "feedsftp.l.google.com",
+        "alias": [
+            "feeds.google.com",
+            "uploads.google.com"
+        ],
+        "ipaddr": [
+            "108.170.217.160"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "investor.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "investor.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "inbox.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.133"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "ipv4.google.com": {
+        "domain": "ipv4.l.google.com",
+        "alias": [
+            "ipv4.google.com"
+        ],
+        "ipaddr": [
+            "216.58.200.142"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "jump.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "jump.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "groups.google.com": {
+        "domain": "groups.l.google.com",
+        "alias": [
+            "groups.google.com"
+        ],
+        "ipaddr": [
+            "74.125.24.100",
+            "74.125.24.102",
+            "74.125.24.139",
+            "74.125.24.138",
+            "74.125.24.101",
+            "74.125.24.113"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "jobs.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "jobs.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "know.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "know.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "kh.google.com": {
+        "domain": "keyhole.l.google.com",
+        "alias": [
+            "kh.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 404,
+        "server": "HTTP server (unknown)"
+    },
+    "landing.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "isp.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "isp.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "issuetracker.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "ldap.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.32.58"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "labs.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "labs.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "learning.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.110"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "local.google.com": {
+        "domain": "maps.l.google.com",
+        "alias": [
+            "local.google.com"
+        ],
+        "ipaddr": [
+            "142.250.77.174"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "m.google.com": {
+        "domain": "mobile.l.google.com",
+        "alias": [
+            "m.google.com"
+        ],
+        "ipaddr": [
+            "142.250.71.11"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "mars.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "mars.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "maven.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "maven.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "maps.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.206"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "map.google.com": {
+        "domain": "maps.google.com",
+        "alias": [
+            "map.google.com"
+        ],
+        "ipaddr": [
+            "172.217.163.206"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "messages.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "meet.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "mini.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "mini.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "mail.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.101"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "material.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.200.142"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "movie.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "movie.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "moon.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "moon.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "movies.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "movies.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "mt.google.com": {
+        "domain": "mt.l.google.com",
+        "alias": [
+            "mt.google.com"
+        ],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "mt2.google.com": {
+        "domain": "mt.l.google.com",
+        "alias": [
+            "mt2.google.com"
+        ],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "lp.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "lp.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "mts.google.com": {
+        "domain": "mts.l.google.com",
+        "alias": [
+            "mts.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "mobile.google.com": {
+        "domain": "mobile.l.google.com",
+        "alias": [
+            "mobile.google.com"
+        ],
+        "ipaddr": [
+            "142.250.71.11"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "music.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "music.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "nec.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.132"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "myaccount.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "myaccount.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "nest.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.67.46"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "notebook.google.com": {
+        "domain": "notebook.l.google.com",
+        "alias": [
+            "notebook.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.206"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "news.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.46"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "nexus.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "nexus.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "opt.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "opt.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "offers.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.58.196.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "pack.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "pack.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.68",
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "on.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "on.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "partners.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "partners.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "one.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "one.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "opensource.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "photos.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.110"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "play.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.205.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "pki.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "pki.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "photo.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.160.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "podcasts.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "podcasts.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "policies.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.71.14"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "podcast.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "podcast.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "plus.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.166.110"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "pay.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.125.200.92"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "pixel.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.174"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "payments.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.251.12.92"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "newsfeed.google.com": {
+        "domain": "nntp.l.google.com",
+        "alias": [
+            "newsfeed.google.com"
+        ],
+        "ipaddr": [
+            "209.85.232.140"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "products.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "products.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "nntp.google.com": {
+        "domain": "nntp.l.google.com",
+        "alias": [
+            "nntp.google.com"
+        ],
+        "ipaddr": [
+            "209.85.232.140"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns1.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.32.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns2.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.34.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.32.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns3.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.36.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "ns4.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.38.10"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "privacy.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.206"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "publisher.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "publisher.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "pride.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.67.78"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "print.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "print.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36",
+            "142.250.76.68"
+        ],
+        "code": 200,
+        "server": "OFE/0.1"
+    },
+    "purchase.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "purchase.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "postmaster.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "postmaster.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "reader.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "reader.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.68",
+            "142.250.76.36"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "realtime.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "realtime.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "registry.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "profiles.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.46"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "rooms.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "rooms.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "research.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "research.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "santatracker.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "santatracker.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "sandbox.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.125.68.81"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "safety.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "safety.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "plex.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.45.8"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "sb.google.com": {
+        "domain": "sb.l.google.com",
+        "alias": [
+            "sb.google.com"
+        ],
+        "ipaddr": [
+            "142.250.77.142"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "search.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "search.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "security.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "security.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "script.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.174"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "services2.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "services2.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "services.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "services.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "scholar.google.com": {
+        "domain": "scholar.l.google.com",
+        "alias": [
+            "scholar.google.com"
+        ],
+        "ipaddr": [
+            "172.217.163.164"
+        ],
+        "code": 200,
+        "server": "scholar"
+    },
+    "shopping.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.251.12.92"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "sms.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "sms.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "sky.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "sky.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "sites.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "sorry.google.com": {
+        "domain": "sorry.l.google.com",
+        "alias": [
+            "sorry.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.100"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "speech.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "speech.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "sprint.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "sprint.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "spaces.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "172.217.163.206"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "station.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "station.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "startup.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.46"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "store.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.78"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "support.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "support-content-ui"
+    },
+    "standards.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.196.46"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "stadia.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.206"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "tasks.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "tasks.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": "ESF"
+    },
+    "surveys.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.67.81"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "survey.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "talk.google.com": {
+        "domain": "talk.l.google.com",
+        "alias": [
+            "talk.google.com"
+        ],
+        "ipaddr": [
+            "74.125.68.125"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "tagmanager.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "tagmanager.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "toolbox.google.com": {
+        "domain": "tools.l.google.com",
+        "alias": [
+            "toolbox.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "time.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.35.0",
+            "216.239.35.4",
+            "216.239.35.12",
+            "216.239.35.8"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "translate.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "translate.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "timeline.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.77.110"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "trends.google.com": {
+        "domain": "www2.l.google.com",
+        "alias": [
+            "trends.google.com"
+        ],
+        "ipaddr": [
+            "142.250.76.36",
+            "142.250.76.68"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "time2.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.35.4"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "time1.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.35.0"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "travel.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.77.174"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "transit.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "transit.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "support-content-ui"
+    },
+    "tools.google.com": {
+        "domain": "tools.l.google.com",
+        "alias": [
+            "tools.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "transparencyreport.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "transparencyreport.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "tv.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "tv.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "upload.google.com": {
+        "domain": "large-uploads.l.google.com",
+        "alias": [
+            "upload.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.143"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "videos.google.com": {
+        "domain": "video.l.google.com",
+        "alias": [
+            "videos.google.com",
+            "video.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.14"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "virgin.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.193.164"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "toolbar.google.com": {
+        "domain": "tools.l.google.com",
+        "alias": [
+            "toolbar.google.com"
+        ],
+        "ipaddr": [
+            "142.250.195.110"
+        ],
+        "code": 200,
+        "server": "support-content-ui"
+    },
+    "video.google.com": {
+        "domain": "video.l.google.com",
+        "alias": [
+            "video.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.14"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "w.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "w.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "vr.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "vr.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "wap.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "wap.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": "sffe"
+    },
+    "web.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "web.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "voice.google.com": {
+        "domain": "voice.l.google.com",
+        "alias": [
+            "voice.google.com"
+        ],
+        "ipaddr": [
+            "142.250.196.14"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "vault.google.com": {
+        "domain": "www4.l.google.com",
+        "alias": [
+            "vault.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "GSE"
+    },
+    "wave.google.com": {
+        "domain": "www4.l.google.com",
+        "alias": [
+            "wave.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 200,
+        "server": "support-content-ui"
+    },
+    "wifi.google.com": {
+        "domain": "wifi.l.google.com",
+        "alias": [
+            "wifi.google.com"
+        ],
+        "ipaddr": [
+            "142.251.10.123"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "wallet.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.125.130.92"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "webmasters.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "webmasters.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "workspace.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.142"
+        ],
+        "code": 200,
+        "server": "sffe"
+    },
+    "webmaster.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "webmaster.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "Google Frontend"
+    },
+    "www.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "142.250.195.132"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "vs.google.com": {
+        "domain": "voice-search.l.google.com",
+        "alias": [
+            "vs.google.com"
+        ],
+        "ipaddr": [
+            "74.125.24.192"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "ww.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "ww.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 200,
+        "server": "gws"
+    },
+    "www10.google.com": {
+        "domain": "webdrive-client.l.google.com",
+        "alias": [
+            "www10.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.174"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "www4.google.com": {
+        "domain": "www4.l.google.com",
+        "alias": [
+            "www4.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "www6.google.com": {
+        "domain": "gfe.core.l.google.com",
+        "alias": [
+            "www6.google.com"
+        ],
+        "ipaddr": [
+            "142.250.182.36"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "www5.google.com": {
+        "domain": "www5.l.google.com",
+        "alias": [
+            "www5.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.164"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "www9.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "www9.google.com"
+        ],
+        "ipaddr": [
+            "142.250.183.238",
+            "142.250.193.142"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "yp.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "yp.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": 404,
+        "server": ""
+    },
+    "uploads.google.com": {
+        "domain": "feedsftp.l.google.com",
+        "alias": [
+            "uploads.google.com"
+        ],
+        "ipaddr": [
+            "108.170.217.160"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "xmpp.google.com": {
+        "domain": "xmpp.l.google.com",
+        "alias": [
+            "xmpp.google.com"
+        ],
+        "ipaddr": [
+            "172.217.194.125"
+        ],
+        "code": 200,
+        "server": "ESF"
+    },
+    "whois.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "216.239.34.22"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "work.google.com": {
+        "domain": "www3.l.google.com",
+        "alias": [
+            "work.google.com"
+        ],
+        "ipaddr": [
+            "142.250.193.142",
+            "142.250.183.238"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "wam.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "72.14.224.24",
+            "72.14.224.25"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "vpn.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "64.9.224.70",
+            "64.9.224.69",
+            "64.9.224.68"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "smtp.google.com": {
+        "domain": "",
+        "alias": [],
+        "ipaddr": [
+            "74.125.24.27",
+            "74.125.24.26",
+            "142.250.4.26",
+            "142.251.10.26",
+            "74.125.68.27"
+        ],
+        "code": "",
+        "server": ""
+    },
+    "_meta": {
+        "name": "knockpy",
+        "version": "5.3.0",
+        "time_start": 1651649934.7370453,
+        "time_end": 1651650000.11942,
+        "domain": "google.com",
+        "wordlist": 10763
+    }
+}
